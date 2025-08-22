@@ -37,3 +37,9 @@ can be solved in "polynomial time." In other words, there is an algorithm that s
 - Image of Fermat: [Wikipedia](https://en.wikipedia.org/wiki/Pierre_de_Fermat#/media/File:Pierre_de_Fermat.jpg)
 - "Throw my intergrity out the window": [Tim Wildsmith on Unsplash](https://unsplash.com/photos/a-building-with-windows-1CuGAY4WpP8)
 - "Earth": [NASA on Unsplash](https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs)
+
+## Further References
+
+If you are interested in learning computational complexity theory, the field of math related to the P vs PSPACE problem,
+try `Introduction to the Theory of Computation` by Michael Sipser.
+You could also try `Computational Complexity: A Modern Approach` by Sanjeev Arora and Boaz Barak, which goes more in-depth(but is harder).
