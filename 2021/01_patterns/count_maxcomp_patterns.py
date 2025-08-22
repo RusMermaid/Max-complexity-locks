@@ -1,4 +1,4 @@
-# Counting Max-Complexity Patterns!
+# Counting patterns with all line angles!
 # Zye 2021-08-22
 #
 # Uses a method slightly different from video.
@@ -14,6 +14,7 @@ HEIGHT = 3
 ############################
 #### SIMPLE CALCULATION ####
 ############################
+
 
 # calculate slope
 # string 'nan' for special value (infinity)
