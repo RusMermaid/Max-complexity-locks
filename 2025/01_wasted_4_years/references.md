@@ -4,19 +4,20 @@
 
 > This paper proves that the question "Is `x` a prime number?" where `x` is an `n`-digit number,
 can be solved in "polynomial time." In other words, there is an algorithm that solves the problem in `f(n)` amount of time, where `f(n)` is a polynomial function of `n` (the length of the number).
-<br>
-Using the terms in our video, you could say they've found a way to 'solve this problem efficiently without an eraser.'
-<br>
-(Just for clarification, this doesn't solve the P vs PSPACE problem at all. "Is x a prime number?" just happened to be an easy enough problem that can be solved efficiently.)
+> 
+> Using the terms in our video, you could say they've found a way to 'solve this problem efficiently without an eraser.'
+> 
+> (Just for clarification, this doesn't solve the P vs PSPACE problem at all. "Is x a prime number?" just happened to be an easy enough problem that can be solved efficiently.)
 
 ## Websites
 
 - `04:14` - [Gridbach](https://app.gridbach.com/record)
 
 > A website dedicated to bruteforcing(?) the Goldbach conjecture.
-You can use your computer to check if large even numbers are the sum of two prime numbers.
-Who knows, maybe you find a counterexample to the Goldbach conjecture and prove it wrong?
-(This is HIGHLY unlikely)
+> You can use your computer to check if large even numbers are the sum of two prime numbers.
+> 
+> Who knows, maybe you find a counterexample to the Goldbach conjecture and prove it wrong?
+> (This is HIGHLY unlikely)
 
 ## Images
 
