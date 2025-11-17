@@ -257,3 +257,7 @@ Vatican
 Yemen
 
 Zambia
+
+## Secret Hint
+
+- `34:32` - It's actually doable with 'Merge Shapes'
