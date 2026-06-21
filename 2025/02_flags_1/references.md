@@ -50,7 +50,7 @@ Armenia
 
 Austria
 
-Bahamas
+The Bahamas
 
 Bahrain
 

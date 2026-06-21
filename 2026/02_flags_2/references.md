@@ -36,3 +36,109 @@
 The above three sources, along with the Wikipedia pages for "Flag of (country name)", were referenced for basically every flag construction.
 
 (To be updated)
+
+Australia
+
+Azerbaijan
+
+Bosnia and Herzegovina
+
+Burkina Faso
+
+Cabo Verde
+
+Cameroon
+
+Central African Republic
+
+Chile
+
+Comoros
+
+Cuba
+
+Dominica
+
+Fiji
+
+Ghana
+
+Grenada
+
+Guinea-Bissau
+
+Honduras
+
+Jamaica
+
+Jordan
+
+Kosovo
+
+Liberia
+
+Libya
+
+Malaysia
+
+Micronesia
+
+Mozambique
+
+Myanmar
+
+Nauru
+
+North Korea
+
+North Macedonia
+
+Panama
+
+Papua New Guinea
+
+Philippines
+
+Rwanda
+
+Samoa
+
+Sao Tome and Principe
+
+Senegal
+
+Singapore
+
+Solomon Islands
+
+Somalia
+
+South Sudan
+
+Suriname
+
+Syria
+
+Taiwan
+
+Timor-Leste
+
+Togo
+
+Tunisia
+
+Turkiye
+
+Turkmenistan
+
+Tuvalu
+
+United Kingdom
+
+United States
+
+Uzbekistan
+
+Venezuela
+
+Vietnam
